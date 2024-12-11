@@ -18,6 +18,8 @@ Ensure that you have the following installed:
 
 ### 1. Clone the Repository (if applicable)
 
+**WARNING: For some reason, the menu doesn't display, but it's navigable. The answers will show in the terminal, AS WELL AS, if you pick Stack/AVL/BST/RedBlack. Insert the numbers necessary in the terminal, and press 3 to visualize. A new window should pop up and actually display the ADTs.
+
 Clone this repository to your local machine:
 
 ```bash

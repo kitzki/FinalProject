@@ -1,5 +1,7 @@
 # ADT Visualization Project
 
+**WARNING: For some reason, the menu doesn't display, but it's navigable. The answers will show in the terminal, AS WELL AS, if you pick Stack/AVL/BST/RedBlack. Insert the numbers necessary in the terminal, and press 3 to visualize. A new window should pop up and actually display the ADTs.
+
 This project allows you to interact with and visualize various Abstract Data Structures (ADTs) like Heap, Binary Search Tree (BST), Stack, Queue, Priority Queue, AVL Tree, and Red-Black Tree using SFML for graphical rendering.
 
 **Firstly**
@@ -17,8 +19,6 @@ Ensure that you have the following installed:
 ## Steps to Compile and Run the Project
 
 ### 1. Clone the Repository (if applicable)
-
-**WARNING: For some reason, the menu doesn't display, but it's navigable. The answers will show in the terminal, AS WELL AS, if you pick Stack/AVL/BST/RedBlack. Insert the numbers necessary in the terminal, and press 3 to visualize. A new window should pop up and actually display the ADTs.
 
 Clone this repository to your local machine:
 
